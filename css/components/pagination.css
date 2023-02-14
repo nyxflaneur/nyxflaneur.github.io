@@ -12,7 +12,7 @@
 .pagination .pagination-prev,
 .pagination .pagination-next {
   margin: 0 2px;
-  color: #324199;
+  color: #2e4e7e;
   font-size: 1.5rem;
   border: 1px solid #e0e0e0;
   padding: 10px 16px;
@@ -26,11 +26,11 @@
 .pagination .pagination-prev:hover,
 .pagination .pagination-next:hover {
   color: #fff;
-  background-color: #324199;
-  border-color: #324199;
+  background-color: #2e4e7e;
+  border-color: #2e4e7e;
 }
 .pagination .current {
   color: #fff;
-  background-color: #324199;
-  border-color: #324199;
+  background-color: #2e4e7e;
+  border-color: #2e4e7e;
 }

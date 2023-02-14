@@ -17,7 +17,7 @@ header .site-branding .site-title a {
   display: inline-block;
   color: #fff;
   font-weight: bolder;
-  background-color: #324199;
+  background-color: #2e4e7e;
   line-height: 5rem;
   height: 5rem;
   padding: 0 5rem;
@@ -47,7 +47,7 @@ header .site-navigation ul li {
 }
 header .site-navigation ul li a {
   display: block;
-  color: #324199;
+  color: #2e4e7e;
   font-size: 1.6rem;
   line-height: 2rem;
   padding: 0 1rem;

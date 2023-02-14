@@ -451,7 +451,7 @@ body .blog {
   min-height: 100vh;
   background-color: #fff;
   margin: 0 auto;
-  border-top: 3px solid #324199;
+  border-top: 3px solid #2e4e7e;
 }
 body .blog .content {
   box-sizing: border-box;
@@ -479,7 +479,7 @@ header .site-branding .site-title a {
   display: inline-block;
   color: #fff;
   font-weight: bolder;
-  background-color: #324199;
+  background-color: #2e4e7e;
   line-height: 5rem;
   height: 5rem;
   padding: 0 5rem;
@@ -509,7 +509,7 @@ header .site-navigation ul li {
 }
 header .site-navigation ul li a {
   display: block;
-  color: #324199;
+  color: #2e4e7e;
   font-size: 1.6rem;
   line-height: 2rem;
   padding: 0 1rem;
@@ -535,7 +535,7 @@ article {
   padding: 8rem 0;
 }
 article a {
-  color: #324199;
+  color: #2e4e7e;
 }
 article a:hover span {
   box-shadow: inset 0 -1px 0 rgba(240,56,56,0.4);
@@ -566,7 +566,7 @@ article .article-title {
   line-height: 1.3;
   text-align: left;
   padding: 0 2rem;
-  border-left: 6px solid #324199;
+  border-left: 6px solid #2e4e7e;
 }
 article .article-title a {
   display: block;
@@ -599,7 +599,7 @@ article .article-top-meta a {
   color: #9e9e9e;
 }
 article .article-top-meta a:hover {
-  color: #324199;
+  color: #2e4e7e;
 }
 article .article-top-meta a time {
   font-style: normal;
@@ -664,7 +664,7 @@ article .article-footer .article-meta a {
   color: #9e9e9e;
 }
 article .article-footer .article-meta a:hover {
-  color: #324199;
+  color: #2e4e7e;
 }
 article .article-footer .article-meta i {
   vertical-align: middle;
@@ -682,7 +682,7 @@ article code {
   padding: 3px 6px;
   margin-left: 2px;
   margin-right: 2px;
-  color: #324199;
+  color: #2e4e7e;
   white-space: normal;
   border-radius: 4px;
   background-color: #ededed;
@@ -782,7 +782,7 @@ article.archive {
   content: '#';
 }
 .archive-post time a:hover {
-  color: #324199;
+  color: #2e4e7e;
 }
 article .tags-cloud {
   width: 100%;
@@ -823,7 +823,7 @@ article .tags-cloud a {
 }
 article .archive-tags a:hover,
 article .tags-cloud a:hover {
-  color: #324199;
+  color: #2e4e7e;
 }
 article .archive-tags i,
 article .tags-cloud i {
@@ -883,7 +883,7 @@ article .categories-cloud a {
 }
 article .archive-categories a:hover,
 article .categories-cloud a:hover {
-  color: #324199;
+  color: #2e4e7e;
 }
 article .archive-categories i,
 article .categories-cloud i {
@@ -918,7 +918,7 @@ article .categories-cloud .post-categories a:not(:last-of-type):after {
 .pagination .pagination-prev,
 .pagination .pagination-next {
   margin: 0 2px;
-  color: #324199;
+  color: #2e4e7e;
   font-size: 1.5rem;
   border: 1px solid #e0e0e0;
   padding: 10px 16px;
@@ -932,13 +932,13 @@ article .categories-cloud .post-categories a:not(:last-of-type):after {
 .pagination .pagination-prev:hover,
 .pagination .pagination-next:hover {
   color: #fff;
-  background-color: #324199;
-  border-color: #324199;
+  background-color: #2e4e7e;
+  border-color: #2e4e7e;
 }
 .pagination .current {
   color: #fff;
-  background-color: #324199;
-  border-color: #324199;
+  background-color: #2e4e7e;
+  border-color: #2e4e7e;
 }
 footer.site-footer {
   position: relative;
@@ -948,7 +948,7 @@ footer.site-footer {
   color: #9e9e9e;
 }
 footer.site-footer a {
-  color: #324199;
+  color: #2e4e7e;
 }
 footer.site-footer .site-info {
   color: #9e9e9e;
